@@ -12,7 +12,7 @@ Student feedback analysis that ensures minority voices matter. Automatically fin
 
 ## Quick Start
 
-### **[Open the Main Notebook](StudentFeedback_Analysis_Pipeline.ipynb)**
+### **[Open the Main Notebook](StudentFeedback_Analysis.ipynb)**
 
 Click the link above or the "Open in Colab" badge to run the complete 26-cell pipeline in Google Colab.
 
