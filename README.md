@@ -69,4 +69,3 @@ Click the link above or the "Open in Colab" badge to run the complete 26-cell pi
 3. Upload your own `studentdataset.csv` or use the provided sample
 
 ### Option 2: Local Installation
-```bash
