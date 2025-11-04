@@ -1,0 +1,35 @@
+{
+  "outlier_indices": [
+    5,
+    19,
+    28,
+    33,
+    44,
+    50,
+    78,
+    83,
+    93,
+    94,
+    115,
+    137,
+    158,
+    161,
+    177
+  ],
+  "minority_cluster_indices": [
+    25,
+    40,
+    47,
+    48,
+    49,
+    53,
+    61,
+    88,
+    111
+  ],
+  "minority_cluster_ids": [
+    1
+  ],
+  "total_minority_patterns": 24,
+  "percentage": 12.972972972972974
+}
