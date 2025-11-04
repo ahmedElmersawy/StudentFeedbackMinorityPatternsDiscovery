@@ -1,0 +1,25 @@
+text,sentiment,is_outlier,is_minority_cluster,cluster_id
+Yes Yes Yes Yes,Positive,True,False,-1
+"Talk about punctuality, it's really good but the lecture delivery is somehow not appreciated because every teacher has different style of teaching, so lack of knowledge in terms of subject is there and interaction is also kind of boring. A teacher should be entertaining as well but they are really not. All they want us to be studios and disciplined which is really not the thinking of every student. The materials or links provided for study purpose is good, clarity in depth of courses but again it differs from teacher to teacher. The evaluation is again bad for our CA, as one of our faculty is really weird. He gives us remarks on the basis of how we present things in front of it, he never look for the content of our answer, which is really annoying. As he expects us to deliver answer in the way he wants us to do. But how can a person do that, as people do have different mentality and they do explain themselves in different manner, so a teacher must understand that quality of a child and should give him marks on the basis of what they say not what they should say. This is really a good thing that events happen in our university regularly but they must be announced early so that every student can prepare themselves for participation because sometimes we get to know about most of the events when they have already been conducted. So announcement must be there.",Negative,True,False,-1
+Good Good Average Good,Neutral,False,True,1
+nice good ok ok Awesome,Negative,True,False,-1
+Perfect Awesome Too much lanlb file work Perfect,Negative,True,False,-1
+Good Good Average Good,Neutral,False,True,1
+Good Perfect It's good Good,Positive,True,False,-1
+average good too much good average,Negative,False,True,1
+average good good best,Neutral,False,True,1
+good well planned average good,Neutral,False,True,1
+good good it is difficult to understand experiment in 1 hour good,Neutral,True,False,-1
+average good good good,Neutral,False,True,1
+average good good good,Neutral,False,True,1
+good delivery optimum content excellent work they are going excellent,Positive,True,False,-1
+good it is not appropriate its hard to find a computer working in lab. Students cannot save data in one single PC not much interested,Negative,True,False,-1
+Good Good Good Average,Negative,False,True,1
+it is ok it is not very deep i hate it very good,Negative,True,False,-1
+some teachers aren't doing their jobs in very well manner course contents are very much relevant to our courses very good i also want to participate in that activities but i can't take part in those activities because I'm a day scholar,Negative,True,False,-1
+good upto the mark good average,Neutral,False,True,1
+satisfactory content of course is ample but depth must be more good good,Negative,True,False,-1
+satisfied content provided by you is excellent so that we learnt more and more about that particular subject Here we r able to do every thing by our own with u r valuable support EXTRAORDINARY,Positive,True,False,-1
+they are showing partiality between north indians and south indians they are giving good knowledge for us in lab also they are showing parilaty i felt happy because it encourages our talents,Negative,True,False,-1
+staff is showing partiality between north indians and south indians its good good better,Negative,True,False,-1
+I WAS A STUDENT OF A BOARDING SCHOOL .....(jnv) I STUDIED FOR 7 YEARS THERE RESIDING IN HOSTEL ..NOW LIVING IN LPU IS SAME LIKE THAT..AND STILL MORE SAME AND PUNCTUALITY IS SHOWN HERE BY BOTH TEACHERS AND STUDENTS...AND ALSO BY THE STAFF.. SECURITY IS ABOVE 90%(IN CASE OF STUDENT IS WELL MANURED) ....CLASSES REGULAR ....SPORTS DAILY.....PARTICIPATION WELL/.......QUALITY BELOW AVERAGE LESS TIME FOR STUDY ...LESS TIME FOR PAPER ATTEMTING...LESS TIME FOR EVERY THING ....LESS KNOWLEGE.....LESS DEPTH OF COURSE .....BUT PROPER COURSE MATERIAL ACCORDING TO EXAM NOT GOOD ... VERY HIGH......NEED TO TAKE DOWN SOME ACCITIVTIES ................................NOISE POLLITION IN THE UNIVERSITY ALWAYS A BIG PROBLEM.,Negative,True,False,-1
